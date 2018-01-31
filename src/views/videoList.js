@@ -19,3 +19,4 @@ var VideoListView = Backbone.View.extend({
   template: templateURL('src/templates/videoList.html')
 
 });
+
